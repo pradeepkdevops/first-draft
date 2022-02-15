@@ -1,0 +1,23 @@
+[33mcommit 00d979c8e214a0011f5cd0735c1cace942cdec51[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Pradeep <pradeep@gmail.comgit config --global user.name pradeepgit statusgit config --global user.email pradeep@gmail.com>
+Date:   Tue Feb 15 20:02:14 2022 +0530
+
+    second file created in main branch
+
+[33mcommit 24213876cb073de0324e5e1e9078880d55dcc2cf[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: pradeepkdevops <99680049+pradeepkdevops@users.noreply.github.com>
+Date:   Tue Feb 15 19:28:03 2022 +0530
+
+    Added third line
+
+[33mcommit ece2b0cbdb545560aba0c4a13551700087bbd528[m
+Author: pradeepkdevops <99680049+pradeepkdevops@users.noreply.github.com>
+Date:   Tue Feb 15 19:27:09 2022 +0530
+
+    Created First File
+
+[33mcommit ec4135df3534797cb3ea178d6fa8dc48649632f6[m
+Author: pradeepkdevops <99680049+pradeepkdevops@users.noreply.github.com>
+Date:   Tue Feb 15 19:06:39 2022 +0530
+
+    Initial commit
